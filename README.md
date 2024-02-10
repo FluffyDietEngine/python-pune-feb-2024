@@ -1,8 +1,8 @@
-### Beyond Pandas: A dive into Python's high-performance dataframe library *Polars* 
+## Beyond Pandas: A dive into Python's high-performance dataframe library *Polars* 
 
 ![banner](/assets/polars_banner.jpg)
 
-#### Some basics about Polars
+### Some basics about Polars
 
 - Based on the principle of RDBS engines' query optimisation. 
 
@@ -16,18 +16,18 @@
 > **... Query Engine with a dataframe frontend** - _Ritchie Vink, EuroPy 2023_
 
 
-#### What I like about Polars? 
+### What I like about Polars? 
 - *Readability* - `.lower()` can mean n things, but `to_lower()` means only what it supposed to mean.
 - No more index anymore :tada:. Seriously, after Pandas, the forceful inclusion of index based operations has became a normal, and I hated every minute of it.
 - *Expr* everywhere. You are not writing Python code anymore for most of the operations, but the python binding of the **Rust Expression**.
 - *Optimisation* - one less thing to think about when I write the code. 
 - Community support - Even though the library is comparatively new, the community is very active in [discord](https://discord.gg/rjAmwfY6). You can get answer within a day, for anything, *literally anything*. 
 
-#### Where did I struggle with Polars?
+### Where did I struggle with Polars?
 - *Steep learning curve* - As it is one of a kind of tool/utility/library, you definitely have to learn the `Polar way`, which may not be simple for everyone. 
 
 
-#### Demonstration
+### Demonstration
 
 Data - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
