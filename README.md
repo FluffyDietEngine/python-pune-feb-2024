@@ -4,10 +4,7 @@
 
 #### Some basics about Polars
 
-
 - Based on the principle of RDBS engines' query optimisation. 
-
-![polars structure](/assets/polars-core.png)
 
 - Written in Rust to provide _performance, parallelism and efficient memory management_ out of the box.
 
