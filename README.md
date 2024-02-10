@@ -35,7 +35,14 @@
 Data - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
 - Data preparation 
-  - 
+  - Modification of data types
+  - Usage of `with_columns`
+  - data selection with `select` and `col`
+  - Copy with `col` and `alias`
+
+- Data analysis
+  - `groupby` and `agg`
+
 
 ### Resources
 - [Polars documentation](https://docs.pola.rs/py-polars/html/reference/index.html)
