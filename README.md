@@ -1,4 +1,4 @@
-## Beyond Pandas: A dive into Python's high-performance dataframe library *Polars* 
+## Beyond Pandas: A dive into Python's high-performance dataframe library *Polars* - Presentation for PythonPune meetup dated 10 Feb 2024
 
 ![banner](/assets/polars_banner.jpg)
 
